@@ -1,4 +1,5 @@
-# DATA ANALYSIS TOOL ANALYTICS Assignment_4
+# DATA ANALYSIS TOOL ANALYTICS
+## Assignment_4
 
 We used a dataset showing the top 4000 YouTube channels based on subscribers. We used the “iloc” command, which is integer index based to create a function to calculate the distribution of channeltype from the top 1000 records. 
 Subsequently, we showed that distribution in a bar graph as can be seen in the code output.

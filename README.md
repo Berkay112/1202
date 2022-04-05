@@ -10,7 +10,7 @@ The Pandas website article on iloc functions was particularly of help in solving
 
 ### Prerequisites
 
-We need to download jupyter notebook which is inside Anaconda Navigator.
+We need to download **jupyter notebook** which is inside Anaconda Navigator.
 
 
 ### Installing

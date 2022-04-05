@@ -15,7 +15,7 @@ We need to download jupyter notebook which is inside Anaconda Navigator.
 
 ### Installing
 
-We need to import numpy, scipy, pandas, matplotlib.pyplot libraries.
+We need to import **numpy, scipy, pandas, matplotlib.pyplot** libraries.
 
 ## Authors
 
